@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin** and **.NET** 
 
 - 📫 How to reach me **neslisah.celek@outlook.com**
 
