@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neslişah</h1>
 
-- 🔭 I’m currently working on [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+- 🔭 I’m currently working on [Backend-Camp](https://github.com/neslisahcelek/Backend-Camp) and [Android-Course](https://github.com/neslisahcelek/Android-Course)
 
 - 🌱 I’m currently learning **Kotlin** and **.NET Core** 
 
