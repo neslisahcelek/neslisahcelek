@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neslişah</h1>
 
-- 💻 I’m currently working on [City Explorer](https://github.com/neslisahcelek/City-Explorer) 
+- 💻 I’m currently working on [City Explorer](https://github.com/neslisahcelek/city-explorer) 
 
 - 📫 How to reach me **neslisah.celek@outlook.com**
 
