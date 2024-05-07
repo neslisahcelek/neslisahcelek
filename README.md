@@ -1,21 +1,74 @@
 <h1 align="center">Hi 👋, I'm Neslişah</h1>
 
-- 📫 How to reach me **neslisah.celek@outlook.com**
+🔭 Android developer with a year of experience designing, building and testing high-performance applications.<br/>
+🌱 Proficient in Kotlin and Jetpack Compose.<br/>
+👩🏽‍💻 Interested in natural language processing and recommendation systems.</br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+<p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neslisahcelek&show_icons=true&theme=dark&title_color=992c9b&locale=en" alt="neslisahcelek" /></p>
+## Tools and Technologies
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+     <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="icon" width="65" height="65" />
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" alt="icon" width="65" height="65" />
+      <br>Android
+    </td>
+        <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="icon" width="65" height="65" />
+      <br>Compose
+    </td>
+    </td>
+      <td align="center" width="96">
+        <img src= "https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="icon" width="65" height="65" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="icon" width="65" height="65" />
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" alt="icon" width="65" height="65" />
+      <br>JUnit
+    </td>
+  </tr>
+  
+</table>
+<br><br>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neslisahcelek&theme=dark" alt="neslisahcelek" /></p>
+<p align="center">
+
+<a href="https://github.com/neslisahcelek?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=neslisahcelek&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="50%" alt="@neslisahcelek's github-readme-stats"/></a><a href="https://github.com/neslisahcelek?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=neslisahcelek&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="50%" alt="@neslisahcelek's github-readme-streak-stats"/></a>
+</p>
+<p align="center">
+    <a href="graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=neslisahcelek&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph" alt="Contribution graph">
+    </a>
+</p>
+
+</td></tr></table>  
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=neslisahcelek&theme=discord&no-frame=true&no-bg=true&margin-w=15" alt="Trophies">
+</div>
 
